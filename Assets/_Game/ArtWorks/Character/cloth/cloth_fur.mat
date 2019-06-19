@@ -5,7 +5,8 @@ Material:
   serializedVersion: 6
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_Name: cloth_fur
   m_Shader: {fileID: 4800000, guid: 7d44983479399a94ca9b1c43f856fac9, type: 3}
   m_ShaderKeywords: 
@@ -64,7 +65,7 @@ Material:
         m_Offset: {x: 0, y: 0}
     - _LayerTex:
         m_Texture: {fileID: 2800000, guid: cbff27e15e0ebeb448ebad39cf110989, type: 3}
-        m_Scale: {x: 20, y: 20}
+        m_Scale: {x: 80, y: 20}
         m_Offset: {x: 0, y: 0}
     - _LeftTex:
         m_Texture: {fileID: 0}
@@ -126,7 +127,7 @@ Material:
     - _Metallic: 0
     - _Mode: 0
     - _OcclusionStrength: 1
-    - _Parallax: 0.02
+    - _Parallax: 0.005
     - _ReflectionGlossiness: 1
     - _Rotation: 0
     - _Shininess: 1
